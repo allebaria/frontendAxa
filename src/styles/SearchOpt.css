@@ -1,0 +1,12 @@
+.searchOpt-header {
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}

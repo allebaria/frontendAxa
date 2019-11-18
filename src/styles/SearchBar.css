@@ -1,0 +1,14 @@
+.sb-input {
+  border-style: none;
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+}
+
+.input-wrapper {
+  height: 100%;
+  padding-left: 20px;
+}
+input:focus {
+    outline:none;
+}

@@ -1,0 +1,33 @@
+.picture {
+  height: 150px;
+}
+
+.picture-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.mainInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+.friendsColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.row-container {
+  width: 1000px;
+  border: 2px solid;
+  border-color: rgb(238, 238, 238);
+}
