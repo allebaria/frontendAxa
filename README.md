@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project for solving Altran frontend test. Only for desktop version. 
 
 ## Available Scripts
 
